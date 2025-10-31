@@ -1,0 +1,6 @@
+**/*.zip
+
+.claude
+.gemini
+.env
+.idea
