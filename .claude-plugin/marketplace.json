@@ -1,0 +1,23 @@
+{
+  "name": "harry-skills",
+  "owner": {
+    "name": "Harry Robbins",
+    "email": "harryrobbins@gmail.com"
+  },
+  "metadata": {
+    "description": "Harry Robbins' skill collection",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "harry-skills",
+      "description": "Collection of skills including Mermaid diagram generation and synthetic test data generation using Decoy",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./mermaidjs",
+        "./decoy-data-generation/decoy-data-generation"
+      ]
+    }
+  ]
+}
