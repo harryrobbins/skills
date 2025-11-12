@@ -16,7 +16,8 @@
       "strict": false,
       "skills": [
         "./mermaidjs",
-        "./decoy-data-generation/decoy-data-generation"
+        "./decoy-data-generation",
+        "./govuk-vue"
       ]
     }
   ]
