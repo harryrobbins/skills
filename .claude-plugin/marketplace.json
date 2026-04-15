@@ -11,13 +11,14 @@
   "plugins": [
     {
       "name": "harry-skills",
-      "description": "Collection of skills including Mermaid diagram generation and synthetic test data generation using Decoy",
+      "description": "Collection of skills including Mermaid diagram generation, synthetic test data generation using Decoy, and Typst document typesetting",
       "source": "./",
       "strict": false,
       "skills": [
         "./mermaidjs",
         "./decoy-data-generation",
-        "./govuk-vue"
+        "./govuk-vue",
+        "./typst"
       ]
     }
   ]
